@@ -44,7 +44,7 @@ class FindYourHints(object):
 
     def startFinding(self):
         print "[+] Please Use Double quotation marks. E.g: \"Dave\""
-        self._Passport = str(input("[+] Passport: "))
+        self._Passport = str(raw_input("[+] Passport: "))
         print "[+] Your Passport is " + self._Passport + ", and here we go..."
         print "============================================================"
 
