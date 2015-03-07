@@ -10,7 +10,7 @@ import requests
 class FindYourHints(object):
 
     def importPayloads(self):
-        _FileList = glob.glob(r"Reg\*.json")
+        _FileList = glob.glob(r"./Reg/*.json")
         _AllFileNum = 0
         for _File in _FileList:
             _LoadFile = open(_File)
