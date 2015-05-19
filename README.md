@@ -16,7 +16,11 @@ Tip 0: 爬虫
 
 
 > <STYLE>
->.body{
->    background-image:url('https://www.davex.pw/test.png</STYLE><SCRIPT>alert(/XSS_url/)</SCRIPT>')
->}
-><STYLE>
+> 
+> .body{
+> 
+>     background-image:url('https://www.davex.pw/test.png</STYLE><SCRIPT>alert(/XSS_url/)</SCRIPT>')
+> 
+> }
+> 
+> <STYLE>
