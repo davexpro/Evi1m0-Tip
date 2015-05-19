@@ -13,3 +13,10 @@ Tip 0: 爬虫
  1.利用ICON判断性别
  
  2.利用返回JSON中的特征文字进行判断
+
+
+> <STYLE>
+>.body{
+>    background-image:url('https://www.davex.pw/test.png</STYLE><SCRIPT>alert(/XSS_url/)</SCRIPT>')
+>}
+><STYLE>
